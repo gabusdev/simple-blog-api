@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Esta api es el back-end del proyecto tutprial [simple-blog](https://github.com/gabusdev/simple-blog) con Reactjs
+Esta api es el back-end del proyecto tutprial [simple-blog](https://github.com/gabusdev/simple-blog-react) con Reactjs
 
 Se realizó con **dotnet core webapi** y para iniciar la api solo es: `dotnet run`
 
